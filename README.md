@@ -1,9 +1,8 @@
 # GenshinShika
-image
-![hq720](https://github.com/user-attachments/assets/a04feaf4-3992-4f63-a73c-01ac62e7da84)
+image![hq720](https://github.com/user-attachments/assets/a04feaf4-3992-4f63-a73c-01ac62e7da84)
 
 
-Install launcher in release!!
+# Install launcher in release!!
 # Functions
 - Player
 - God Mode
